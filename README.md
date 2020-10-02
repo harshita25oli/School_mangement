@@ -1,2 +1,2 @@
 # School_mangement
-Handle the student and teachers data
+Handle the student and teachers data.
